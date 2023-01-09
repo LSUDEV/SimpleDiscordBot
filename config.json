@@ -1,0 +1,25 @@
+{
+    "discord": {
+        "prefix": "+",
+        "token": "discord-token-here"
+    },
+    "command": {
+        "disabled": [
+            "",
+            ""
+        ]
+    },
+    "channel": {
+        "bot": [""]
+    },
+    "role": {
+        "whitelisted": "1",
+        "member": "2",
+        "mains": "3"
+    },
+    "other": {
+        "owners": [
+            "1111111111111"
+        ]
+    }
+}
